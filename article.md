@@ -3,8 +3,6 @@
 
 ## Material and Methods
 
-## Result
-
-## Discussion
+## Results and Discussion
 
 ## Conclusion
